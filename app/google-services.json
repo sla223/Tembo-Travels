@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95071492471",
+    "project_id": "tembotravels-1f40e",
+    "storage_bucket": "tembotravels-1f40e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95071492471:android:2a6818c0653fb114bbe972",
+        "android_client_info": {
+          "package_name": "com.example.tembotravels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gI53o6pxCjuhU04PpAAqs6t4aH4B6-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
